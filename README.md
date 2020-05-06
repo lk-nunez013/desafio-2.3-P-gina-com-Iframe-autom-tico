@@ -16,3 +16,5 @@
 ## Modal
 
 O modal deve conter um iframe que busca a música.
+
+### Ainda não está responsivo, futuramente se for algo que use posso colocar responsividade.
